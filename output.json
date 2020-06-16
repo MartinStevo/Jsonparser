@@ -1,0 +1,97 @@
+[
+  {
+    "Meno": "MUDr. Ivan",
+    "Priezvisko": "André , PhD.",
+    "Adresa": "Vajnorská 40, 83263 Bratislava 3",
+    "Region": "Bratislavský kraj",
+    "Tel": "02/ 4920 2506",
+    "Mobil": "0907 744 442"
+  },
+  {
+    "Meno": "PhDr. Eva",
+    "Priezvisko": "Heftyová PhD.",
+    "Adresa": "Cesta na Červený most 1, 83331 Bratislava 4",
+    "Region": "Bratislavský kraj",
+    "Tel": "02/ 593 51 227"
+  },
+  {
+    "Meno": "MUDr. Štefan",
+    "Priezvisko": "Hlavatý",
+    "Adresa": "Palackého 21, 91101 Trenčín",
+    "Region": "Trenčiansky kraj",
+    "Tel": "032 / 744 09 08"
+  },
+  {
+    "Meno": "MUDr. Beatrix",
+    "Priezvisko": "Jezná",
+    "Adresa": "A. Rudnaya 3606/100, 01001 Žilina",
+    "Region": "Žilinský kraj",
+    "Tel": "041/ 723 34 75"
+  },
+  {
+    "Meno": "MUDr. Ivan",
+    "Priezvisko": "Kubiš",
+    "Adresa": "Sládkovičova 9, 97401 Banská Bystrica",
+    "Region": "Banskobystrický kraj",
+    "Tel": "048/416 42 79\n048 / 471 05 13"
+  },
+  {
+    "Meno": "MUDr. Alexander",
+    "Priezvisko": "Mikitka",
+    "Adresa": "Nemocničná 1944/10, 02601 Dolný Kubín",
+    "Region": "Žilinský kraj",
+    "Tel": "043/586 71 73"
+  },
+  {
+    "Meno": "MUDr. Miroslav",
+    "Priezvisko": "Murcko",
+    "Adresa": "Nemocničná 986, 01701 Považská Bystrica",
+    "Region": "Trenčiansky kraj",
+    "Tel": "042/430 41 11"
+  },
+  {
+    "Meno": "MUDr. Ivan",
+    "Priezvisko": "Philadelphy",
+    "Adresa": "Dolná 32, 97401 Banská Bystrica",
+    "Region": "Banskobystrický kraj",
+    "Tel": "048 /413 07 66",
+    "Mobil": "0903 512 433"
+  },
+  {
+    "Meno": "MUDr. Pavol",
+    "Priezvisko": "Rozprávka",
+    "Adresa": "Alžbetina 55, 04001 Košice 1",
+    "Region": "Košický kraj",
+    "Tel": "055/ 632 50 02",
+    "Mobil": "0908 988 311"
+  },
+  {
+    "Meno": "MUDr. Ladislav",
+    "Priezvisko": "Siska",
+    "Adresa": "Mickiewiczova 13, 81301 Bratislava 1",
+    "Region": "Bratislavský kraj",
+    "Tel": "02/ 572 906 49"
+  },
+  {
+    "Meno": "MUDr. Ján",
+    "Priezvisko": "Šouc",
+    "Adresa": "Sládkovičova 11, 96501 Žiar nad Hronom",
+    "Region": "Banskobystrický kraj",
+    "Tel": "045/ 670 99 05"
+  },
+  {
+    "Meno": "MUDr. Dezider",
+    "Priezvisko": "Timko",
+    "Adresa": "Nábrežie 4. apríla 1990, 03101 Liptovský Mikuláš",
+    "Region": "Žilinský kraj",
+    "Tel": "044/552 52 60"
+  },
+  {
+    "Meno": "MUDr. Ján",
+    "Priezvisko": "Vongrej",
+    "Adresa": "Nám. L. Svobodu 1, 97401 Banská Bystrica",
+    "Region": "Banskobystrický kraj",
+    "Tel": "048/ 417 37 18",
+    "Mobil": "0911 340 259"
+  }
+]
